@@ -1,0 +1,19 @@
+{
+    "liveServer.settings.port": 5503,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "MyDatabase",
+            "group": "game_result",
+            "database": "\"C:\\Users\\Soniya\\Desktop\\frantic-run-of-rabbit\\game.db.db\""
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "MyDatabase",
+            "group": "gamp_score",
+            "database": "\"C:\\Users\\Soniya\\Desktop\\frantic-run-of-rabbit\\game.db\""
+        }
+    ]
+}

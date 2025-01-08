@@ -1,0 +1,41 @@
+[Start]
+    |
+    v
+[Initialize Game]
+    |
+    v
+[Display Instructions]
+    |
+    v
+[Game Loop]
+    |
+    v
+[Check for User Input] <-------------------+
+    |                                          |
+    v                                          |
+[Create Monsters]                             |
+    |                                          |
+    v                                          |
+[Move Monsters]                               |
+    |                                          |
+    v                                          |
+[Check for Collisions] ----------------------+
+    |                                          |
+    |                                          |
+    |                                          |
+    |                                          |
+    v                                          |
+[Collision?]                                   |
+    |                                          |
+   / \                                         |
+  /   \                                        |
+Yes    No                                      |
+  |       |                                    |
+  v       |                                    |
+[Game Over] <---------------------------------+
+  |
+  v
+[Display Final Score]
+  |
+  v
+[End]
